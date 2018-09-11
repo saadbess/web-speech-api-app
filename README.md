@@ -2,4 +2,4 @@
 
 Simple speech app using the Web Speech API, specifically the synthesis feature
 
-<a href="https://saadbess.github.io/web-speech-api-app/">See it live here</a>
+<a href="https://saadbess.github.io/web-speech-api-app/" target="_blank">See it live here</a>
